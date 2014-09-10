@@ -22,3 +22,7 @@ I use git, on github.com
     git remote add origin git@github.com:UniAJC-IngeSoft-III/patron-fabrica.git
     git push -u origin master
 
+##External references
+ * [JOptionPane Dialog Reference](http://www.java2s.com/Tutorial/Java/0240__Swing/CreatingaJOptionPane.htm)
+ * [Material de clases](https://sites.google.com/site/vdmfclases/patrones-de-software/clases?pli=1)
+
